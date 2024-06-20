@@ -1,8 +1,8 @@
-## AsmJIT database is dual-licensed under `Zlib` and being Unlicensed (public domain)
+## The AsmJIT database is ***dual-licensed under Zlib and being Unlicensed (Public Domain)***
 ---------
 
-**This is free and unencumbered software released into the public domain.**
-### ***For more information about this, please refer to <https://unlicense.org>***
+*This is free and unencumbered software released into the public domain.*
+#### **For more information about this, please refer to <https://unlicense.org>**
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
